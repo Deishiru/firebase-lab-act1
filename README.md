@@ -1,1 +1,0 @@
-# firebase-lab-act1
